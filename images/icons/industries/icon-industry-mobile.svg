@@ -1,0 +1,20 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone body -->
+  <rect x="5.5" y="1.5" width="13" height="21" rx="2.5"
+    stroke="currentColor" stroke-width="1.5" fill="rgba(16,185,129,0.08)"/>
+  <!-- Notch -->
+  <line x1="9.5" y1="4" x2="14.5" y2="4"
+    stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- App grid (2x2) -->
+  <rect x="8" y="7" width="3.5" height="3.5" rx="0.8"
+    stroke="currentColor" stroke-width="1.2" fill="none"/>
+  <rect x="12.5" y="7" width="3.5" height="3.5" rx="0.8"
+    stroke="currentColor" stroke-width="1.2" fill="none"/>
+  <rect x="8" y="11.5" width="3.5" height="3.5" rx="0.8"
+    stroke="currentColor" stroke-width="1.2" fill="none"/>
+  <rect x="12.5" y="11.5" width="3.5" height="3.5" rx="0.8"
+    stroke="currentColor" stroke-width="1.2" fill="none"/>
+  <!-- Home indicator -->
+  <line x1="10" y1="20" x2="14" y2="20"
+    stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

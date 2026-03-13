@@ -1,0 +1,31 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Org chart: top node (lead) -->
+  <rect x="8.5" y="1.5" width="7" height="4.5" rx="1.5"
+    stroke="currentColor" stroke-width="1.5" fill="rgba(16,185,129,0.08)"/>
+  <!-- Vertical trunk -->
+  <line x1="12" y1="6" x2="12" y2="9"
+    stroke="currentColor" stroke-width="1.5"/>
+  <!-- Horizontal connector -->
+  <line x1="4.5" y1="9" x2="19.5" y2="9"
+    stroke="currentColor" stroke-width="1.5"/>
+  <!-- Left branch + node -->
+  <line x1="4.5" y1="9" x2="4.5" y2="11.5"
+    stroke="currentColor" stroke-width="1.5"/>
+  <rect x="1.5" y="11.5" width="6" height="4" rx="1.5"
+    stroke="currentColor" stroke-width="1.5" fill="rgba(16,185,129,0.08)"/>
+  <!-- Center branch + node -->
+  <line x1="12" y1="9" x2="12" y2="11.5"
+    stroke="currentColor" stroke-width="1.5"/>
+  <rect x="9" y="11.5" width="6" height="4" rx="1.5"
+    stroke="currentColor" stroke-width="1.5" fill="rgba(16,185,129,0.08)"/>
+  <!-- Right branch + node -->
+  <line x1="19.5" y1="9" x2="19.5" y2="11.5"
+    stroke="currentColor" stroke-width="1.5"/>
+  <rect x="16.5" y="11.5" width="6" height="4" rx="1.5"
+    stroke="currentColor" stroke-width="1.5" fill="rgba(16,185,129,0.08)"/>
+  <!-- Bottom row: 4th node under center (automation engineer) -->
+  <line x1="12" y1="15.5" x2="12" y2="18"
+    stroke="currentColor" stroke-width="1.5"/>
+  <rect x="9" y="18" width="6" height="4" rx="1.5"
+    stroke="currentColor" stroke-width="1.5" fill="rgba(16,185,129,0.08)"/>
+</svg>

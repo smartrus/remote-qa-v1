@@ -1,0 +1,39 @@
+# remote.qa
+> AI-augmented remote QA platform — managed QA teams powered by AI for startups shipping fast.
+
+## About
+remote.qa combines elite distributed QA engineers with AI-native testing tools to deliver faster, cheaper, and more comprehensive quality assurance. Headquartered in Dubai, UAE. Part of the NomadX consulting family.
+
+## Services
+- QA Coverage Audit — 3-day test coverage assessment and gap analysis
+- QA Sprint Team — dedicated 2-person QA team with AI tools
+- Managed QA — full QA squad with automation lead and AI pipeline
+- QA Center of Excellence — enterprise-grade QA program with SLA
+- E2E Test Automation — AI-generated Playwright/Cypress suites with self-healing selectors
+- API & Integration Testing — contract testing, schema validation, and load testing
+- Mobile QA — iOS and Android testing on real devices
+- Performance & Load Testing — capacity planning with k6/Locust
+- Accessibility QA — WCAG 2.2 compliance audit and assistive technology testing
+- AI/ML QA — LLM evaluation, model validation, bias testing (delivered by aiml.qa)
+
+## Industries
+- SaaS & Web Apps
+- Fintech & Payments
+- Healthtech & Digital Health
+- AI-Native Products
+- Mobile Apps
+
+## Key Resources
+- [Services Overview](https://remote.qa/services/)
+- [Industries We Serve](https://remote.qa/industries/)
+- [About Us](https://remote.qa/about/)
+- [Blog](https://remote.qa/blog/)
+- [Contact](https://remote.qa/contact/)
+
+## Related Sites
+- [aiml.qa](https://aiml.qa) — AI/ML Quality Assurance (specialty vertical)
+- [nomadx.ae](https://nomadx.ae) — AI Agents Consulting
+- [devsecops.ae](https://devsecops.ae) — DevSecOps Consulting
+- [kubernetes.ae](https://kubernetes.ae) — Kubernetes Consulting
+- [pentest.ae](https://pentest.ae) — AI Security Testing
+- [ledgers.ae](https://ledgers.ae) — Agentic Payments

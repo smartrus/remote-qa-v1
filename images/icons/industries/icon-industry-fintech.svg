@@ -1,0 +1,20 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Credit card body -->
+  <rect x="1.5" y="4.5" width="21" height="15" rx="2"
+    stroke="currentColor" stroke-width="1.5" fill="rgba(16,185,129,0.08)"/>
+  <!-- Magnetic stripe -->
+  <line x1="1.5" y1="9.5" x2="22.5" y2="9.5"
+    stroke="currentColor" stroke-width="2.5"/>
+  <!-- Chip -->
+  <rect x="4" y="12.5" width="4.5" height="3.5" rx="0.8"
+    stroke="currentColor" stroke-width="1.2" fill="none"/>
+  <line x1="6.25" y1="12.5" x2="6.25" y2="16"
+    stroke="currentColor" stroke-width="0.8"/>
+  <line x1="4" y1="14.25" x2="8.5" y2="14.25"
+    stroke="currentColor" stroke-width="0.8"/>
+  <!-- Card number dots -->
+  <circle cx="14" cy="14.5" r="0.7" fill="currentColor"/>
+  <circle cx="16" cy="14.5" r="0.7" fill="currentColor"/>
+  <circle cx="18" cy="14.5" r="0.7" fill="currentColor"/>
+  <circle cx="20" cy="14.5" r="0.7" fill="currentColor"/>
+</svg>

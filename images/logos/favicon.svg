@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Globe outline -->
+  <circle cx="256" cy="256" r="180"
+    stroke="url(#grad)" stroke-width="28" fill="none"/>
+  <!-- Equator -->
+  <ellipse cx="256" cy="256" rx="180" ry="60"
+    stroke="url(#grad)" stroke-width="16" fill="none"/>
+  <!-- Meridian -->
+  <ellipse cx="256" cy="256" rx="60" ry="180"
+    stroke="url(#grad)" stroke-width="16" fill="none"/>
+
+  <!-- Checkmark -->
+  <polyline points="176,260 230,320 340,196"
+    stroke="white" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

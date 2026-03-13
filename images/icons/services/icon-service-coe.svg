@@ -1,0 +1,8 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield body -->
+  <path d="M12 2L4 5.5v5.5c0 5 3.5 9.5 8 11 4.5-1.5 8-6 8-11V5.5L12 2z"
+    stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" fill="rgba(16,185,129,0.08)"/>
+  <!-- Star inside shield (center of excellence) -->
+  <polygon points="12,7 13.4,10.2 16.8,10.5 14.2,12.8 15,16.2 12,14.3 9,16.2 9.8,12.8 7.2,10.5 10.6,10.2"
+    stroke="currentColor" stroke-width="1.2" stroke-linejoin="round" fill="none"/>
+</svg>

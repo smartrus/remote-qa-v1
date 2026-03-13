@@ -1,0 +1,23 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left server/endpoint -->
+  <rect x="1.5" y="7" width="7" height="10" rx="1.5"
+    stroke="currentColor" stroke-width="1.5" fill="rgba(16,185,129,0.08)"/>
+  <!-- Right server/endpoint -->
+  <rect x="15.5" y="7" width="7" height="10" rx="1.5"
+    stroke="currentColor" stroke-width="1.5" fill="rgba(16,185,129,0.08)"/>
+  <!-- Request arrow (left to right) -->
+  <line x1="8.5" y1="10" x2="15.5" y2="10"
+    stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <polyline points="13.5,8.5 15.5,10 13.5,11.5"
+    stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Response arrow (right to left) -->
+  <line x1="15.5" y1="14" x2="8.5" y2="14"
+    stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <polyline points="10.5,12.5 8.5,14 10.5,15.5"
+    stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dots on endpoints (status lights) -->
+  <circle cx="5" cy="10.5" r="0.8" fill="currentColor"/>
+  <circle cx="5" cy="13.5" r="0.8" fill="currentColor"/>
+  <circle cx="19" cy="10.5" r="0.8" fill="currentColor"/>
+  <circle cx="19" cy="13.5" r="0.8" fill="currentColor"/>
+</svg>
