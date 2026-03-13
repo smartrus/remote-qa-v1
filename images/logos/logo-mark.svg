@@ -1,9 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <rect width="32" height="32" rx="7" fill="#10b981"/>
-  <!-- Globe: outer circle -->
-  <circle cx="16" cy="15" r="8.5" stroke="white" stroke-width="2.5" fill="none"/>
-  <!-- Equator: global/remote -->
-  <ellipse cx="16" cy="15" rx="8.5" ry="3" stroke="white" stroke-width="1.5" fill="none"/>
-  <!-- Checkmark: QA pass -->
-  <polyline points="11,15 14.5,19 22,11" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Globe outline — remote/distributed -->
+  <circle cx="256" cy="256" r="180"
+    stroke="url(#grad)" stroke-width="28" fill="none"/>
+  <!-- Equator line -->
+  <ellipse cx="256" cy="256" rx="180" ry="60"
+    stroke="url(#grad)" stroke-width="16" fill="none"/>
+  <!-- Meridian line -->
+  <ellipse cx="256" cy="256" rx="60" ry="180"
+    stroke="url(#grad)" stroke-width="16" fill="none"/>
+
+  <!-- Checkmark overlay — QA/quality -->
+  <polyline points="176,260 230,320 340,196"
+    stroke="white" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
 </svg>
